@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "id": 2,
+      "category": "living room",
+      "display_name": "living room items",
+      "description": "items used in the living room"
+    },
+    {
+      "id": 3,
+      "category": "electronics",
+      "display_name": "electronic items",
+      "description": "items that are electronics"
+    },
+    {
+      "id": 4,
+      "category": "bathroom",
+      "display_name": "bathroom items",
+      "description": "items used in the bathroom"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": "kitchen",
+      "name": "kitchen knives set",
+      "display_name": "kitchen knives set",
+      "description": "item used for cutting, slicing or chopping"
+    },
+    {
+      "id": 2,
+      "category": "living room",
+      "name": "leather couch",
+      "display_name": "leather couch",
+      "description": "item used in living room"
+    }
+  ]
+}
